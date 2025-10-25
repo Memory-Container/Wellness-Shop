@@ -325,7 +325,7 @@ header {
                         flex-direction: column;
                         gap: 12px;
                         align-items: center;
-                        
+
                         .title {
                             font-weight: 600;
                             font-size: 37.9px;
@@ -390,8 +390,8 @@ header {
                             display: flex;
                             align-items: center;
                             justify-content: center;
-                            width: 82px;
-                            height: 82px;
+                            width: 60px;
+                            height: 60px;
                             border-radius: 50%;
                             border: 2px solid black;
                         }
