@@ -463,7 +463,7 @@ header {
     align-items: center;
     justify-content: center;
     background-color: var(--bg-teal);
-    height: 245px;
+    height: 365px;
 
     .container {
         display: flex;

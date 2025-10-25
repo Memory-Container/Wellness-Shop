@@ -413,6 +413,11 @@ header {
                     height: 82.06px;
                     border: 2px solid white;
                     border-radius: 9px;
+
+                    img {
+                        width: 52.56px;
+                        height: 41.69px;
+                    }
                 }
 
                 .content {

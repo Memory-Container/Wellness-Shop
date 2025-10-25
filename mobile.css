@@ -396,8 +396,8 @@ header {
                             border: 2px solid black;
 
                             img {
-                                width: 42.44px;
-                                height: 42.44px;
+                                width: 38.46px;
+                                height: 30.5px;
                             }
                         }
 
@@ -420,7 +420,7 @@ header {
     align-items: center;
     justify-content: center;
     background-color: var(--bg-teal);
-    height: 245px;
+    height: 305px;
 
     .container {
         display: flex;
