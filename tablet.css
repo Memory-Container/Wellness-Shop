@@ -438,8 +438,8 @@ header {
                             display: flex;
                             align-items: center;
                             justify-content: center;
-                            width: 82px;
-                            height: 82px;
+                            width: 60px;
+                            height: 60px;
                             border-radius: 50%;
                             border: 2px solid black;
                         }
@@ -482,7 +482,7 @@ header {
                 .image {
                     background-color: #f4f4f4;
                 }
-                
+
             }
             .links {
                 flex-wrap: wrap;
