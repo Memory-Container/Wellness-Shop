@@ -477,6 +477,13 @@ header {
             flex-direction: column;
             width: 100%;
             
+            .logo {
+
+                .image {
+                    background-color: #f4f4f4;
+                }
+                
+            }
             .links {
                 flex-wrap: wrap;
                 row-gap: 36px;
