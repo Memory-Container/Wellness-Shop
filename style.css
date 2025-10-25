@@ -128,6 +128,7 @@ header {
                     width: 251px;
                     height: 56px;
                     background-color: var(--bg-teal);
+                    border: 0;
                     border-radius: 67px;
                     font-weight: 600;
                     font-size: 21.33px;
